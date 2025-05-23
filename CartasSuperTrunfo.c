@@ -66,7 +66,7 @@ int main () {
     printf("Quantos pontos turisticos possuem a cidade %s ? \n", c2_nome_cidade);
     scanf("%d", &c2_qtd_pontos_turisticos);
 
-    /* Calculando Variaveis  */
+    /* Calculando Variaveis Densidade e PIB per Capita  */
     
     /* Carta 1*/
     c1_densidade_populacional = (float) c1_populacao / c1_area ;
